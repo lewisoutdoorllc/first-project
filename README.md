@@ -1,14 +1,31 @@
 # horiseon-website
 
-I am repairng this site to improve the function and try and clean up the coding as much as possible to provide a better flow.
-## Html changes to improve site
+## Table of Contents 
+
+* [Installation](#installation)
+* [Html changes](#html-changes)
+* [CSS changes](#css-changes)
+* [Link to site](#link-to-site)
+* [Screenshot](#screenshot-of-landing-page)
+* [Credits](#credits)
+* [Some help from the web](#some-help-from-the-web)
+* [License](#license)
+
+
+I am repairing this site to improve the function and try and clean up the coding as much as possible to provide a better flow.
+
+## Installation
+
+Click the link to site in this README and it will take you to the landing page for the site. 
+
+## Html changes
 
 // Html changes //
 Changed Tab title to Horiseon
 
 Fixed id attribute for search engine optimization
 
-# CSS changes to improve the site
+# CSS changes
 /* CSS changes */ 
 
 /* benefits div combined repetitive css properties for div; h3; img */
