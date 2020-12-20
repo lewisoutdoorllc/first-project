@@ -16,6 +16,6 @@ Fixed id attribute for search engine optimization
 /* link to site */
 https://lewisoutdoorllc.github.io/horiseon-website/
 
-```md
-![alt text](./assets/images/screenshot.png)
-```
+
+![alt text](assets/images/screenshot-horiseon-website.png)
+
